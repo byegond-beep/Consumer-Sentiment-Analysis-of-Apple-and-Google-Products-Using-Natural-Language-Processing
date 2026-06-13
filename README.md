@@ -114,15 +114,12 @@ The selected model achieved the highest weighted F1-score while providing strong
 data/
 ├── Dataset used for analysis
 
-
 presentation/
 ├── Presentation.pdf
-
 
 notebooks/
 ├── Consumer-Sentiment-Analysis-of-Apple-and-Google-Products-Using-NLP.ipynb
 ├── Consumer-Sentiment-Analysis-of-Apple-and-Google-Products-Using-NLP.pdf
-
 
 README.md
 .gitignore
